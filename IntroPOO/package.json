@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ejecutar" : "tsc EjAuto/auto.ts & node EjAuto/auto.js ",
+    "ejecutar" : "tsc EjMonitor/monitor.ts & node EjMonitor/monitor.js ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

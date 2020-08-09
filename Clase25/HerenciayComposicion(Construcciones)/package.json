@@ -1,0 +1,17 @@
+{
+  "name": "construcciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ejecutar": "tsc Construcciones.ts & node Construcciones.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "readline-sync": "^1.4.10"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ejerciciopersonas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ejecutar" : "tsc deportistas.ts & node deportistas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

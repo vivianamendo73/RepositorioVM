@@ -1,0 +1,3 @@
+Casa,1,Agustin Villalba,Roca 314,Manzana21Parcela34,2494452700
+Casa,2,Ramiro Gil,Alem 1234,Manzana56Parcela15,2494433456
+Edificio,8,Torres del Sur,32,Yrigoyen 620,Manzana12Parcela3,2494446655

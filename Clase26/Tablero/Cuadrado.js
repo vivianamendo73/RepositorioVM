@@ -22,9 +22,11 @@ var Cuadrado = /** @class */ (function (_super) {
         _this.ocupado = false;
         return _this;
     }
+    //Polimorfismo:redefine el metodo area
     Cuadrado.prototype.area = function () {
         return Math.pow(this.getBase(), 2);
     };
+    //Metodo que modifica la variable protected color
     Cuadrado.prototype.setColor = function (color) {
         this.color = color;
     };

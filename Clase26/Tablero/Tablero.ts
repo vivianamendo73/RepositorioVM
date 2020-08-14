@@ -12,7 +12,7 @@ class Tablero{
         this.nombreJuego = nombreJuego;
         this.numeroDeFichas = numeroDeFichas;
         this.numeroDeParticipantes = numeroDeParticipantes;
-        this.casilleros = new Array<Array<Cuadrado>>;
+        this.casilleros = [];
     }
 
     //Metodo privado que carga la variable casilleros asignandole un color de frma tal que queden intercalados 

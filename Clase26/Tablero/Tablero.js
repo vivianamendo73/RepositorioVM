@@ -8,6 +8,7 @@ var Tablero = /** @class */ (function () {
         this.numeroDeParticipantes = numeroDeParticipantes;
         this.casilleros = new Array;
     }
+    //Metodo privado que carga la variable casilleros asignandole un color de frma tal que queden intercalados 
     Tablero.prototype.cargarTablero = function (tamañoTablero, tamañoCasillero) {
         for (var i = 0; i < tamañoTablero; i++) {
             var fila = new Array(tamañoTablero);
@@ -26,6 +27,7 @@ var Tablero = /** @class */ (function () {
             this.casilleros.push(fila);
         }
     };
+    //Metodo publico que llama al metodo preivado solicitado en la consigna
     Tablero.prototype.armarTablero = function (tamañoTablero, tamañocCasillero) {
         this.cargarTablero(tamañoTablero, tamañocCasillero);
         console.log("TableroTerminado");

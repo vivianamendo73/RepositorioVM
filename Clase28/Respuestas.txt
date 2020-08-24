@@ -1,0 +1,12 @@
+.Funcuinalidades NPM
+	1-npm es un gestor de paquetes que nos ayuda a administrar nuestros módulos, distribuir paquetes y agregar dependencias de una manera sencilla.
+	2-npm permite descargar librerias por linea de comandos.
+	3-permite definir tareas
+.Beneficio de usar un lenguaje con tipo
+	Se desarrollan codigos mas legibles, es compatiple con todas las librerias js, soporta la implementacion de clases.
+.Variables internas
+	Las variables internas son losatributos de una clase. Son internas poruqe son inherentes a la clase.
+.Diferencia entre Herencia y Composicion
+	usamos herencia cuando la clase que voy a implementar tiene muchas cosas en comun con la clase de la que voy a heredar y coy a utilizar sus metodos. en cambio cuando solo tengo que hacer uso de sus atributos utilizo la composicion.
+.Mecanismo TypeScript para manejar casos en donde los parámetros que le llegan a un método son inválidos
+	TypeScript lo que hace es forzar el tipo de dato de los argumentos para que puedan ser manejados sin que ocasionen errores.

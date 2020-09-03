@@ -1,0 +1,5 @@
+Toyota,Yaris,AD760ZB,0,4,45
+Ford,Focus,NJY649,0,4,50
+XR,EW,EA453,0,4,5,150
+Scania,F4580,AD560YB,0,4,120,false
+Renault,Megane,OLZ245,0,4,55

@@ -1,0 +1,14 @@
+"use strict";
+exports.__esModule = true;
+var AutoCiudad_1 = require("./AutoCiudad");
+var AutoDeportivo_1 = require("./AutoDeportivo");
+var Camioneta_1 = require("./Camioneta");
+var auto1 = new AutoCiudad_1.AutoCiudad('Ford', 'Focus', 'AD760ZB');
+auto1.acelerar();
+console.log(auto1);
+var auto2 = new AutoDeportivo_1.AutoDeportivo('Toyota', 'Corolla', 'AD888ZB');
+auto2.acelerar();
+console.log(auto2);
+var camioneta = new Camioneta_1.Camioneta('Ford', 'Ranger', 'AA222RF');
+camioneta.acelerar();
+console.log(camioneta);
